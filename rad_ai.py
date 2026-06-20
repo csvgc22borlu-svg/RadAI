@@ -7,7 +7,7 @@ print("====================================")
 print("Hello! I'm Rad AI, your cool AI assistant.\n")
 
 API_URL = "https://api-inference.huggingface.co/models/google/flan-t5-large"
-API_TOKEN = "hf_YOUR_TOKEN_HERE"
+API_TOKEN = "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"
 
 def ask_rad_ai(question):
     headers = {"Authorization": f"Bearer {API_TOKEN}"}
